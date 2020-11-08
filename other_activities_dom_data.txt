@@ -1,0 +1,205 @@
+<div class="boundary">
+        <div></div>
+      </div>
+
+
+
+      <section class="main">
+
+        <div class="col-1">
+
+          <img src="img/event/fashion-weekend2.jpg">
+
+        </div>
+        <div class="col-2">
+
+          <h1>biw-models FASHION WEEKEend</h1>
+
+          <div class="para">
+            <P>The BIW-Models Fashion Weekend Is a consumer-focused fair and free business platform designed to showcase the best of Africa’s Fashion to a global audience whilst promoting the effervescent enterprise of the continents growing fashion industry.</P>
+            <p>Miss US Nation is a pageant with a message that we are all one “Nation” and no matter what race, nationality or social class, we want to inspire young women everywhere to reach their fullest potential. Mixing fashion with a pageantry flare can have so many positive outcomes; not just creating models, but role models.</p>
+          </div>
+
+          <div class="top-right-menu">
+
+            <div class="left">
+
+              <a href="#">
+                <div style="margin-left: 0;">
+                  <img src="img/event/team-1.jpg">  
+                </div>
+              </a>
+              <a href="#">
+                <div>
+                  <img src="img/event/team-2.jpg">  
+                </div>
+              </a>
+              <a href="#">
+                <div>
+                  <img src="img/event/team-3.jpg">  
+                </div>
+              </a>
+              <a href="#">
+                <div>
+                  <img src="img/event/team-4.jpg">  
+                </div>
+              </a>
+              <a href="#">
+                <div>
+                  <img src="img/event/testimonial-1.jpg">  
+                </div>
+              </a>
+              
+            </div>
+            <div class="right">
+              
+              <a href="#">
+                <div>
+                  <img src="img/icons/user-black.png">
+                  <p>+65</p>
+                </div>
+              </a>
+              <a href="#">
+                <div>
+                  <img src="img/icons/share-black.png">
+                  <p>SHARE</p>
+                </div>
+              </a>
+
+            </div>
+
+          </div>
+
+        </div>
+
+        <div class="col-3">
+
+          <div class="con">
+            <div class="row">
+              <h4>DATE</h4>
+              <p class="info">20th, Dec 2019</p>
+            </div>
+            <div class="row">
+              <h4>TIME</h4>
+              <p class="info">12:00 pm</p>
+            </div>
+            <div class="row">
+              <h4>VENUE</h4>
+              <p class="info">Eko Hotel and suites, Victoria Island, Lagos, Nigeria 101223</p>
+            </div>
+          </div>
+          <div class="con">
+            <a href="#">
+              <div class="btn">
+                <P>GET THE TICKETS</P>
+              </div>
+            </a>
+          </div>
+
+        </div>
+        
+      </section>
+
+
+
+      <div class="boundary">
+        <div></div>
+      </div>
+
+
+
+      <section class="main">
+
+        <div class="col-1">
+
+          <img src="img/event/exhibition2.jpg">
+
+        </div>
+        <div class="col-2">
+
+          <h1>Our Fashion masterclass Series Exhibition</h1>
+
+          <div class="para">
+            <p>The Fashion Masterclasses provide fashion entrepreneurs the unique opportunity to learn from global industry leaders and experienced brands. The series covers topics addressing challenges and opportunities across the entire industry value chain including: Entrepreneurship, Growth & Profitability, Retailing, and several others.</p>
+            <p>In line with our vision of promoting sustainable development, PHFDW Master Class will centre around promoting entrepreneurship as topics will highlight the challenges and opportunities that abound across the industry. Participants will learn from the know-how of established industry players in redefining their crafts and business growth. By exchanging knowledge and its networking, PHFDW will build a bridge between creation and commerce.</p>
+          </div>
+          
+          <div class="top-right-menu">
+
+            <div class="left">
+
+              <a href="#">
+                <div style="margin-left: 0;">
+                  <img src="img/event/team-1.jpg">  
+                </div>
+              </a>
+              <a href="#">
+                <div>
+                  <img src="img/event/team-2.jpg">  
+                </div>
+              </a>
+              <a href="#">
+                <div>
+                  <img src="img/event/team-3.jpg">  
+                </div>
+              </a>
+              <a href="#">
+                <div>
+                  <img src="img/event/team-4.jpg">  
+                </div>
+              </a>
+              <a href="#">
+                <div>
+                  <img src="img/event/testimonial-1.jpg">  
+                </div>
+              </a>
+              
+            </div>
+            <div class="right">
+              
+              <a href="#">
+                <div>
+                  <img src="img/icons/user-black.png">
+                  <p>+65</p>
+                </div>
+              </a>
+              <a href="#">
+                <div>
+                  <img src="img/icons/share-black.png">
+                  <p>SHARE</p>
+                </div>
+              </a>
+
+            </div>
+
+          </div>
+
+        </div>
+
+        <div class="col-3">
+
+          <div class="con">
+            <div class="row">
+              <h4>DATE</h4>
+              <p class="info">13th, Dec 2019</p>
+            </div>
+            <div class="row">
+              <h4>TIME</h4>
+              <p class="info">10:00 pm</p>
+            </div>
+            <div class="row">
+              <h4>VENUE</h4>
+              <p class="info">Kings plaza, 11b Benjamin Opara street off Olu Obasanjo road, Portharcourt, Rivers state, Nigeria 500272</p>
+            </div>
+          </div>
+          <div class="con">
+            <a href="#">
+              <div class="btn">
+                <P>GET THE TICKETS</P>
+              </div>
+            </a>
+          </div>
+
+        </div>
+        
+      </section>

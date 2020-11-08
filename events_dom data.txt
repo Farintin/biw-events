@@ -1,0 +1,460 @@
+
+  <!--<main id="events" class="two events" style="background-image: url(img/event/event-bg3.jpg);">
+
+    <section class="event">
+      
+      <div class="top-right-menu">
+
+        <div class="left">
+
+          <div>
+            <a href="#">
+              <img src="img/event/team-1.jpg">
+            </a>
+          </div>
+          <div>
+            <a href="#">
+              <img src="img/event/team-2.jpg">
+            </a>
+          </div>
+          <div>
+            <a href="#">
+              <img src="img/event/team-3.jpg">
+            </a>
+          </div>
+          <div>
+            <a href="#">
+              <img src="img/event/team-4.jpg">
+            </a>
+          </div>
+          <div>
+            <a href="#">
+              <img src="img/event/testimonial-1.jpg">
+            </a>
+          </div>
+          
+        </div>
+        <div class="right">
+          
+          <a href="#">
+            <div>
+              <img src="img/icons/user.png">
+              <p>+65</p>
+            </div>
+          </a>
+          <a href="#">
+            <div style="margin-left: 24px;">
+              <img src="img/icons/share.png">
+              <p>SHARE</p>
+            </div>
+          </a>
+
+        </div>
+
+      </div>
+
+      <div class="main">
+        
+        <div class="col-1">
+
+          <h4>EVENT</h4>
+          <h1>Be the next Lagos State FACE OF FASHION!</h1>
+          <P class="para">This is not just an ordinary competition! This Event will develop your modelling skills, will unleash your runway potential and will give you a very "unique" modeling event experience. Aspiring model outside Lagos can also join but organizer of this event will not shoulder the transportation cost.</P>
+          <a href="#">
+            <div class="btn">
+              <P>GET THE TICKETS</P>
+            </div>
+          </a>
+
+        </div>
+        <div class="col-2">
+
+          <h4>DATE</h4>
+          <p class="info">8th, May 2019</p>
+          <h4>TIME</h4>
+          <p class="info">1:00 pm</p>
+          <h4>VENUE</h4>
+          <p class="info">University of Lagos Akoka Road Lagos, LA Nigeria</p>
+          <div class="nav-btn">
+            <div class="prev">
+              <img src="img/icons/arrow-left.png">
+            </div>
+            <div class="next">
+              <img src="img/icons/arrow-right.png">
+            </div>
+          </div>
+        </div>
+
+      </div>
+      
+    </section>
+
+  </main>
+
+  <main id="events" class="two events" style="background-image: url(img/event/event-bg2.jpg);">
+
+    <section class="event">
+      
+      <div class="top-right-menu">
+
+        <div class="left">
+
+          <div>
+            <a href="#">
+              <img src="img/event/team-1.jpg">
+            </a>
+          </div>
+          <div>
+            <a href="#">
+              <img src="img/event/team-2.jpg">
+            </a>
+          </div>
+          <div>
+            <a href="#">
+              <img src="img/event/team-3.jpg">
+            </a>
+          </div>
+          <div>
+            <a href="#">
+              <img src="img/event/team-4.jpg">
+            </a>
+          </div>
+          <div>
+            <a href="#">
+              <img src="img/event/testimonial-1.jpg">
+            </a>
+          </div>
+          
+        </div>
+        <div class="right">
+          
+          <a href="#">
+            <div>
+              <img src="img/icons/user.png">
+              <p>+65</p>
+            </div>
+          </a>
+          <a href="#">
+            <div style="margin-left: 24px;">
+              <img src="img/icons/share.png">
+              <p>SHARE</p>
+            </div>
+          </a>
+
+        </div>
+
+      </div>
+
+      <div class="main">
+        
+        <div class="col-1">
+
+          <h4>EVENT</h4>
+          <h1>Fashions Finest Africa EPIC Show</h1>
+          <P class="para">Fashions Finest Africa Fashion Week would be taking place from the 22nd to 24th May at the Balmoral Convention Centre at Federal Palace Hotel and it would feature young, new, aspiring and emerging designers, showcasing their very best designs on the runway, there would be interactive sessions on various areas of the fashion industry, good music and exhibition stands.</P>
+          <a href="#">
+            <div class="btn">
+              <P>GET THE TICKETS</P>
+            </div>
+          </a>
+
+        </div>
+        <div class="col-2">
+
+          <h4>DATE</h4>
+          <p class="info">22th, May 2020</p>
+          <h4>TIME</h4>
+          <p class="info">9:00 am</p>
+          <h4>VENUE</h4>
+          <p class="info">Federal Palace Hotel & Casino6-8 Ahmadu Bello Way Lagos, LA 101241</p>
+          <div class="nav-btn">
+            <div class="prev">
+              <img src="img/icons/arrow-left.png">
+            </div>
+            <div class="next">
+              <img src="img/icons/arrow-right.png">
+            </div>
+          </div>
+        </div>
+
+      </div>
+      
+    </section>
+
+  </main>
+
+  <main id="events" class="two events" style="background-image: url(img/event/event-bg4.jpg);">
+
+    <section class="event">
+      
+      <div class="top-right-menu">
+
+        <div class="left">
+
+          <div>
+            <a href="#">
+              <img src="img/event/team-1.jpg">
+            </a>
+          </div>
+          <div>
+            <a href="#">
+              <img src="img/event/team-2.jpg">
+            </a>
+          </div>
+          <div>
+            <a href="#">
+              <img src="img/event/team-3.jpg">
+            </a>
+          </div>
+          <div>
+            <a href="#">
+              <img src="img/event/team-4.jpg">
+            </a>
+          </div>
+          <div>
+            <a href="#">
+              <img src="img/event/testimonial-1.jpg">
+            </a>
+          </div>
+          
+        </div>
+        <div class="right">
+          
+          <a href="#">
+            <div>
+              <img src="img/icons/user.png">
+              <p>+65</p>
+            </div>
+          </a>
+          <a href="#">
+            <div style="margin-left: 24px;">
+              <img src="img/icons/share.png">
+              <p>SHARE</p>
+            </div>
+          </a>
+
+        </div>
+
+      </div>
+
+      <div class="main">
+        
+        <div class="col-1">
+
+          <h4>EVENT</h4>
+          <h1>AFRICA FASHION ROUNDTABLE</h1>
+          <P class="para">The AFRICA FASHION ROUNDTABLE is a gathering of fashion industry stakeholders to deliberate and share ideas on how to harness the enormous value in the sector across Africa and beyond. The one day forum will have stakeholders from policy makers to manufacturers seek to chart a prosperous pathway and shape the industry for a better future.</P>
+          <a href="#">
+            <div class="btn">
+              <P>GET THE TICKETS</P>
+            </div>
+          </a>
+
+        </div>
+        <div class="col-2">
+
+          <h4>DATE</h4>
+          <p class="info">11th, Mar 2019</p>
+          <h4>TIME</h4>
+          <p class="info">9:00 am</p>
+          <h4>VENUE</h4>
+          <p class="info">Wheatbaker Hotel 4 Onitolo Street Lagos, LA</p>
+          <div class="nav-btn">
+            <div class="prev">
+              <img src="img/icons/arrow-left.png">
+            </div>
+            <div class="next">
+              <img src="img/icons/arrow-right.png">
+            </div>
+          </div>
+        </div>
+
+      </div>
+      
+    </section>
+
+  </main>
+
+  <main id="events" class="two events" style="background-image: url(img/event/event-bg5.jpg);">
+
+    <section class="event">
+      
+      <div class="top-right-menu">
+
+        <div class="left">
+
+          <div>
+            <a href="#">
+              <img src="img/event/team-1.jpg">
+            </a>
+          </div>
+          <div>
+            <a href="#">
+              <img src="img/event/team-2.jpg">
+            </a>
+          </div>
+          <div>
+            <a href="#">
+              <img src="img/event/team-3.jpg">
+            </a>
+          </div>
+          <div>
+            <a href="#">
+              <img src="img/event/team-4.jpg">
+            </a>
+          </div>
+          <div>
+            <a href="#">
+              <img src="img/event/testimonial-1.jpg">
+            </a>
+          </div>
+          
+        </div>
+        <div class="right">
+          
+          <a href="#">
+            <div>
+              <img src="img/icons/user.png">
+              <p>+65</p>
+            </div>
+          </a>
+          <a href="#">
+            <div style="margin-left: 24px;">
+              <img src="img/icons/share.png">
+              <p>SHARE</p>
+            </div>
+          </a>
+
+        </div>
+
+      </div>
+
+      <div class="main">
+        
+        <div class="col-1">
+
+          <h4>EVENT</h4>
+          <h1>The Peoples Catwalk</h1>
+          <P class="para">The Peoples Catwalk is the biggest non professional catwalk ever done by ordinary people on the African continent, it will take place during Fashions Finest Africa Fashion Week on the 22nd & 23rd May at the Balmoral Convention Centre at Federal Palace Hotel.</P>
+          <a href="#">
+            <div class="btn">
+              <P>GET THE TICKETS</P>
+            </div>
+          </a>
+
+        </div>
+        <div class="col-2">
+
+          <h4>DATE</h4>
+          <p class="info">22th, May 2020</p>
+          <h4>TIME</h4>
+          <p class="info">4:00 pm</p>
+          <h4>VENUE</h4>
+          <p class="info">Federal Palace Hotel & Casino 6-8 Ahmadu Bello Way Lagos, LA 101241</p>
+          <div class="nav-btn">
+            <div class="prev">
+              <img src="img/icons/arrow-left.png">
+            </div>
+            <div class="next">
+              <img src="img/icons/arrow-right.png">
+            </div>
+          </div>
+        </div>
+
+      </div>
+      
+    </section>
+
+  </main>
+
+  <main id="events" class="two events" style="background-image: url(img/event/event-bg6.jpg);">
+
+    <section class="event">
+      
+      <div class="top-right-menu">
+
+        <div class="left">
+
+          <div>
+            <a href="#">
+              <img src="img/event/team-1.jpg">
+            </a>
+          </div>
+          <div>
+            <a href="#">
+              <img src="img/event/team-2.jpg">
+            </a>
+          </div>
+          <div>
+            <a href="#">
+              <img src="img/event/team-3.jpg">
+            </a>
+          </div>
+          <div>
+            <a href="#">
+              <img src="img/event/team-4.jpg">
+            </a>
+          </div>
+          <div>
+            <a href="#">
+              <img src="img/event/testimonial-1.jpg">
+            </a>
+          </div>
+          
+        </div>
+        <div class="right">
+          
+          <a href="#">
+            <div>
+              <img src="img/icons/user.png">
+              <p>+65</p>
+            </div>
+          </a>
+          <a href="#">
+            <div style="margin-left: 24px;">
+              <img src="img/icons/share.png">
+              <p>SHARE</p>
+            </div>
+          </a>
+
+        </div>
+
+      </div>
+
+      <div class="main">
+        
+        <div class="col-1">
+
+          <h4>EVENT</h4>
+          <h1>Beauty Pageant Entrepreneurship Conference and Summit</h1>
+          <P class="para">Join us for 3 days at the Beauty Pageant Entrepreneurship Conference and Summit brings together beauty pageants, industry professionals, investors, influencers and consumers to have a candid dialogue about the beauty pageant industry. Through this event, we hope to empower the pageant community with information and inspiration to change the face of pageantry.</P>
+          <a href="#">
+            <div class="btn">
+              <P>GET THE TICKETS</P>
+            </div>
+          </a>
+
+        </div>
+        <div class="col-2">
+
+          <h4>DATE</h4>
+          <p class="info">20th, Oct 2020</p>
+          <h4>TIME</h4>
+          <p class="info">8:00 am</p>
+          <h4>VENUE</h4>
+          <p class="info">University of Lagos Akoka Road Lagos, LA Nigeria</p>
+          <div class="nav-btn">
+            <div class="prev">
+              <img src="img/icons/arrow-left.png">
+            </div>
+            <div class="next">
+              <img src="img/icons/arrow-right.png">
+            </div>
+          </div>
+        </div>
+
+      </div>
+      
+    </section>
+
+  </main>-->

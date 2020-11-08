@@ -1,0 +1,11 @@
+@media (min-width: 1824px) {
+    .wrapper {
+        max-width: 1600px;
+    }
+
+
+
+    header section#first main p {
+        padding: 0 440px;
+    }
+}

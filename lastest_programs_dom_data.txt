@@ -1,0 +1,132 @@
+<div class="boundary">
+        <div></div>
+      </div>
+
+
+
+      <section class="main">
+
+        <div class="col-1">
+
+          <img src="img/event/model-scout3.jpg">
+
+        </div>
+        <div class="col-2">
+
+          <h1>Model Scout/Boot Camp</h1>
+
+          <div class="para">
+            <P>Whatever your silhouette, TEAM BIW + your Fashion category will be part of your show in front of fashion professionals</P>
+            <p>Come and live a unique fashion experience in Lagos. Photographers, a make-up team, model coaches will be there to pamper you and help you realize your dream.
+            <br><br>
+            - Do you dream of becoming a model and travelling?
+            <br>
+            - Agencies refuse you because you don't meet the size criteria?
+            <br>
+            - Do you want to have more self-confidence and prove that you can do it?
+            <br><br>
+            So register now, as space is limited, so don't miss your chance to join TEAM BIW to represent your Fashion at Lagos Fashion Week.
+            <br><br>
+            At the end of the stay:
+            <br>
+            - A trip to London to participate in the Grand Finale Olympique Talents & Arts Sans Critère, which will bring together more than 2500 people!<br>
+            - You will be pampered, made up. You'll be photographed, we'll make a video clip of you. We will teach you how to avoid boosting your image as during Fashion Week in Lagos.
+            <br><br>
+            More than half a million dollars in profit. Don't miss the biggest parade without criteria.
+            <br>
+            To register send:
+            <br>
+            -Surname first name<br>
+            -Telephone number<br>
+            -Professional situation<br>
+            -Your age<br>
+            -Your city<br>
+            -2 pictures of you<br>
+            -Your motivation.<br>
+            -And if you have other talents (Singing Dance etc...)
+            <br><br>
+            Send it all to casting@biwmodels.com
+            <br>
+            A unique opportunity to confirm or start your career
+            </p>
+          </div>
+
+          <div class="top-right-menu">
+
+            <div class="left">
+
+              <a href="#">
+                <div style="margin-left: 0;">
+                  <img src="img/event/team-1.jpg">  
+                </div>
+              </a>
+              <a href="#">
+                <div>
+                  <img src="img/event/team-2.jpg">  
+                </div>
+              </a>
+              <a href="#">
+                <div>
+                  <img src="img/event/team-3.jpg">  
+                </div>
+              </a>
+              <a href="#">
+                <div>
+                  <img src="img/event/team-4.jpg">  
+                </div>
+              </a>
+              <a href="#">
+                <div>
+                  <img src="img/event/testimonial-1.jpg">  
+                </div>
+              </a>
+              
+            </div>
+            <div class="right">
+              
+              <a href="#">
+                <div>
+                  <img src="img/icons/user-black.png">
+                  <p>+65</p>
+                </div>
+              </a>
+              <a href="#">
+                <div>
+                  <img src="img/icons/share-black.png">
+                  <p>SHARE</p>
+                </div>
+              </a>
+
+            </div>
+
+          </div>
+
+        </div>
+
+        <div class="col-3">
+
+          <div class="con">
+            <div class="row">
+              <h4>DATE</h4>
+              <p class="info">12th, July 2019</p>
+            </div>
+            <div class="row">
+              <h4>TIME</h4>
+              <p class="info">8:00 pm</p>
+            </div>
+            <div class="row">
+              <h4>VENUE</h4>
+              <p class="info">Eko Hotel and suites, Victoria Island, Lagos, Nigeria 101223</p>
+            </div>
+          </div>
+          <div class="con">
+            <a href="#">
+              <div class="btn">
+                <P>GET THE TICKETS</P>
+              </div>
+            </a>
+          </div>
+
+        </div>
+        
+      </section>
